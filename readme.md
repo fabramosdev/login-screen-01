@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="login-screen---exemplo-01">Login Screen - Exemplo 01</h1>
 <p>Exemplo de tela de login. Estudo de HTML, CSS &amp; Javascript</p>
 <h1 id="demo">Demo</h1>
